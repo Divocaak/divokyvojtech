@@ -2,6 +2,11 @@
 	<title>RECEPT NA GULÁŠ</title>
 </svelte:head>
 <a href="/">z5</a>
+<h2>koření</h2>
+<p>dochutíme podle chutí, co má kdo rád</p>
+<img src="/gulas/maily_kveten/mail.jpg" alt="mail conversation screenshot" />
+<img src="/gulas/maily_kveten/mail2.jpg" alt="mail conversation screenshot" />
+
 <h2>beers & screams</h2>
 <p>
 	<b>lore:</b>výhrot kvůli pozdě založenej události a mému <i>pasivnímu až ignorantskému</i> zájmu o
