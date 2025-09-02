@@ -12,4 +12,8 @@
     :global(a){
         color: crimson
     }
+
+    :global(p){
+        max-width: 700px;
+    }
 </style>
