@@ -215,7 +215,10 @@
 <a target="_blank" href="https://linkedin.com/in/vojtechdivoky">linkedin</a><br />
 <br />
 <a target="_blank" href="mailto:divokyvojta@gmail.com">psát mail</a><br />
-<h2>věci</h2>
+<h2>závod o vesmír</h2>
+<p>tady bude nějakej osobní blabla text o projektu</p>
+<a href="/rfs">to mě zajímá, chci vědět víc</a>
+<h2>další věci</h2>
 <p>
 	v roce 23 jsem nějak trochu omylem svítil 2 klipy pro Tolkyho, tak si je sem odložím
 	<a href="https://youtu.be/NgLYB06i-LE?si=0DtYUdw82sczKXrm">HOW, IF AT ALL</a> a
