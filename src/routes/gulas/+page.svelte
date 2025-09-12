@@ -2,7 +2,11 @@
 	<title>RECEPT NA GULÁŠ</title>
 </svelte:head>
 <a href="/">z5</a>
-
+<h1>how to fest mastnej guláš</h1>
+<p>účelem webu není vyprovokovat a ještě víc podporovat náš nesmyslnej konflikt, nebo na osobu kydat hnůj, to nemám zapotřebí. Spíš chci ukázat tu druhou stranu toho člověka. že to není jenom ten <i>usměvavej, hodnej a obětavej pán, co by se fakt pro všechny rozdal</i>. tu stránku, kterou zná asi fakt málokdo.</p>
+<p>vlastně se k němu ten web ideálně ani nedostane. vzniknul totiž z toho důvpdu, že už mě nebavilo tohle celý vyprávět, když se mě na něj někdo zeptal.</p>
+<p>čte se to trochu debilně, to nepoprítám. nejstarší události jsou úplně dole. takže se to čte směrem nahoru, akorát, že vůbec, protože každá <i>událost</i> se čte normálně dolu. událost je to mezi červenejma čárama</p>
+<p>takže vlastně scroloováním jenom dolu se budeš vracet zpátky v čase, ale to je taky dobrý</p>
 <h2>další přísady</h2>
 <p>hej já už fakt nevim co sem psát vole :Dd</p>
 <img src="/gulas/meeting.jpg" alt="mail conversation screenshot" />
