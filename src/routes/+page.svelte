@@ -206,7 +206,6 @@
 </svelte:head>
 
 <h1>vojtěch divoký</h1>
-<a href="/gulas">recept na guláš</a><br />
 <h2>kontakty</h2>
 <a target="_blank" href="https://instagram.com/divokyvojta/">instagram</a><br />
 <a target="_blank" href="https://facebook.com/divokyv/">facebook</a><br />
@@ -351,3 +350,5 @@
 <a target="_blank" href="https://www.youtube.com/watch?v=svthqesRPPk">
 	Zrušit rodinu (tech záznam)
 </a><br />
+<h2>recept na guláš</h2>
+<a href="/gulas">recept na guláš</a><br />
