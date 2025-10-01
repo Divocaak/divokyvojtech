@@ -10,7 +10,7 @@
     }
 
     :global(a){
-        color: crimson
+        color: crimson;
     }
 
     :global(p){
