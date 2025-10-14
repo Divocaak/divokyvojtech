@@ -310,6 +310,9 @@
 <a target="_blank" href="https://www.instagram.com/p/DKjd0kzsz-3/?img_index=1">
 	czechmagovský WHO* IS, taky o DHOGHu
 </a>
+<a target="_blank" href="https://budejcka.drbna.cz/zpravy/kultura/46634-zizkarna-tento-vikend-predstavi-mlade-hudebni-talenty.html">
+	Budějcká Drbna, start podzim sezóny 2025
+</a>
 <h2>jamu projekty</h2>
 <a
 	target="_blank"
