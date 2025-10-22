@@ -304,6 +304,9 @@
 >
 	Deník N - Postcovidový syndrom hudební scény
 </a><br />
+<a target="_blank" href="https://www.ireport.cz/clanky/recenze/live-na-buzerplace-se-hlasi-i-love-you-honey-bunny-spolu-s-marjari-aneb-indie-rock-v-budejovickych-kasarnach">
+	Na buzerplace se hlásí I Love You Honey Bunny spolu s Marjari aneb Indie rock v budějovických kasárnách
+</a><br />
 <a target="_blank" href="https://www.fullmoonzine.cz/poradatelska-vojtech-divoky-dhogh-festival">
 	Pořadatelská Fullmoon o DHOGH festivalu
 </a><br />
