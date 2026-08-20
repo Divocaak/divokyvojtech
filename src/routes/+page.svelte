@@ -212,6 +212,7 @@
 <a target="_blank" href="https://twitter.com/DivokyVojtech">twitter</a><br />
 <a target="_blank" href="https://github.com/Divocaak">github</a><br />
 <a target="_blank" href="https://linkedin.com/in/vojtechdivoky">linkedin</a><br />
+<p>IČO: 13957775</p>
 <br />
 <a target="_blank" href="mailto:divokyvojta@gmail.com">psát mail</a><br />
 <h2>permakulturní manifest</h2>
