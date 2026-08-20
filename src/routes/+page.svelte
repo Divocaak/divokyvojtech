@@ -212,8 +212,12 @@
 <a target="_blank" href="https://twitter.com/DivokyVojtech">twitter</a><br />
 <a target="_blank" href="https://github.com/Divocaak">github</a><br />
 <a target="_blank" href="https://linkedin.com/in/vojtechdivoky">linkedin</a><br />
+<p>IČO: 13957775</p>
 <br />
 <a target="_blank" href="mailto:divokyvojta@gmail.com">psát mail</a><br />
+<h2>permakulturní manifest</h2>
+<p>takovej textík, co jsem jednou sepsal</p>
+<a href="manifest">přečíst, co to je</a>
 <h2>závod o vesmír</h2>
 <p>tady bude nějakej osobní blabla text o projektu</p>
 <a href="/rfs">to mě zajímá, chci vědět víc</a>
@@ -304,11 +308,17 @@
 >
 	Deník N - Postcovidový syndrom hudební scény
 </a><br />
+<a target="_blank" href="https://www.ireport.cz/clanky/recenze/live-na-buzerplace-se-hlasi-i-love-you-honey-bunny-spolu-s-marjari-aneb-indie-rock-v-budejovickych-kasarnach">
+	Na buzerplace se hlásí I Love You Honey Bunny spolu s Marjari aneb Indie rock v budějovických kasárnách
+</a><br />
 <a target="_blank" href="https://www.fullmoonzine.cz/poradatelska-vojtech-divoky-dhogh-festival">
 	Pořadatelská Fullmoon o DHOGH festivalu
 </a><br />
 <a target="_blank" href="https://www.instagram.com/p/DKjd0kzsz-3/?img_index=1">
 	czechmagovský WHO* IS, taky o DHOGHu
+</a>
+<a target="_blank" href="https://budejcka.drbna.cz/zpravy/kultura/46634-zizkarna-tento-vikend-predstavi-mlade-hudebni-talenty.html">
+	Budějcká Drbna, start podzim sezóny 2025
 </a>
 <h2>jamu projekty</h2>
 <a
