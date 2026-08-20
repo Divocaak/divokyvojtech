@@ -214,6 +214,9 @@
 <a target="_blank" href="https://linkedin.com/in/vojtechdivoky">linkedin</a><br />
 <br />
 <a target="_blank" href="mailto:divokyvojta@gmail.com">psát mail</a><br />
+<h2>permakulturní manifest</h2>
+<p>takovej textík, co jsem jednou sepsal</p>
+<a href="manifest">přečíst, co to je</a>
 <h2>závod o vesmír</h2>
 <p>tady bude nějakej osobní blabla text o projektu</p>
 <a href="/rfs">to mě zajímá, chci vědět víc</a>
